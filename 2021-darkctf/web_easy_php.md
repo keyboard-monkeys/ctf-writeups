@@ -54,3 +54,5 @@ which returns
 ```
 darkCON{w3lc0me_D4rkC0n_CTF_2O21_ggwp!!!!} elcome DarkCON CTF !!Welcome DarkCON CTF !!
 ```
+
+(In later analysis, the flag file can be accessed via a direct request without the need for RCE.)
