@@ -113,12 +113,12 @@ The output (with comments `#`):
 14 LDXW M[0x0]
 15 XOR X
 16 ST M[0x1]
-# M[2] = args[1] ^ M[0]
+# M[2] = args[2] ^ M[1]
 17 LDW D[0x20]
 18 LDXW M[0x1]
 19 XOR X
 1a ST M[0x2]
-# M[3] = args[2] ^ M[1]
+# M[3] = args[3] ^ M[2]
 1b LDW D[0x28]
 1c LDXW M[0x2]
 1d XOR X
