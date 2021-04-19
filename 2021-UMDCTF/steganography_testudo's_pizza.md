@@ -1,0 +1,1 @@
+We were given a picture of a pizza box. Using the command `strings hiddenmsg.jpg | grep UMDCTF` we can get the flag `UMDCTF-{W3_ar3_th3_b3st_P1ZZ3r1a}`.

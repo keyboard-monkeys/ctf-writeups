@@ -1,0 +1,2 @@
+We were given a pcapng with ping icmp requests and responses. The packets' data consists of mostly 0-s or mostly f-s. The packets with 0-s transtate to 0 and f-s to 1.
+Looking at the requests, we get the binary `01010101010011010100010001000011010101000100011000101101011110110110001000110001011011100101111101110000001100010100111001100111010111110101000000110000011011100110011101111101`, which can be translated to ascii `UMDCTF-{b1n_p1Ng_P0ng}`.
