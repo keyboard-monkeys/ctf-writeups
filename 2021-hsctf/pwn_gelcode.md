@@ -201,3 +201,5 @@ r.sendline(p)
 r.interactive()
 
 ```
+
+This creates a shell, where running `cat flag` gives the flag: `flag{bell_code_noughttwoeff}`.
